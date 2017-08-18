@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=64.251.0.105;Initial Catalog=iOPS_Normalized</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>c31c7009-3817-465a-8a49-ae3c3c1af639</DataSourceID>
+</RptDataSource>
